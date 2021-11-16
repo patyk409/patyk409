@@ -47,7 +47,7 @@
 ## 📫 Contact me via:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dominik-g%C5%82owacki-106604205/)](https://www.linkedin.com/in/dominik-g%C5%82owacki-106604205/)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dominik.pruszkow@gmail.com)](mailto:dominik.pruszkow@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dominik.pruszkow@gmail.com)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dominik.pruszkow@gmail.com)
 
 <!---
 patyk409/patyk409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
