@@ -6,7 +6,7 @@
 
 #### My name is DOMINIK 🍻 I'm a self taught front-end development ENTHUSIAST ❤️
 #### Did a few courses and still learning with the HOPE 🙏 of finding my FIRST JOB 💰 as a PROGRAMMER 💻
-#### Like to LEARN NEW THINGS 🎓 and GOING DEEPER 🧠 in subjects I already have knowledge about, witch gives me SATISFACTION 💪
+#### Like to LEARN NEW THINGS 🎓 and GOING DEEPER 🧠 in subjects that I already have knowledge about, witch gives me SATISFACTION 💪
 
 <br/>
 
