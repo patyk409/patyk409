@@ -23,16 +23,16 @@
 <br/>
 
 ## 📝 Recent Projects:
-- [React - social app](https://patyk409.github.io/react-social-app/)
+- [Social App](https://patyk409.github.io/react-social-app/)
 -
 -
 
 <br/>
 
 ## 🧰 Abilities:
-- ability to team up 👬
 - resistance to stress 😵
 - problem solving 🔍
+- ability to team up 👬
 
 <br/>
 
