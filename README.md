@@ -16,6 +16,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)](https://github.com/patyk409/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://github.com/patyk409/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)](https://github.com/patyk409/)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jQuery&logoColor=78CFF5)](https://github.com/patyk409/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)](https://github.com/patyk409/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://github.com/patyk409/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)](https://github.com/patyk409/)
