@@ -14,10 +14,11 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)](https://github.com/patyk409/)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)](https://github.com/patyk409/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=pink)](https://github.com/patyk409/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=yellow)](https://github.com/patyk409/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=cyan)](https://github.com/patyk409/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git&logoColor=red)](https://github.com/patyk409/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://github.com/patyk409/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)](https://github.com/patyk409/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)](https://github.com/patyk409/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://github.com/patyk409/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)](https://github.com/patyk409/)
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat-square&logo=VisualStudioCode&logoColor=blue)](https://github.com/patyk409/)
 
 <br/>
