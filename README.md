@@ -26,8 +26,6 @@
 
 ## 📝 Recent Projects:
 - [Social App](https://patyk409.github.io/react-social-app/)
--
--
 
 <br/>
 
