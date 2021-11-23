@@ -27,6 +27,7 @@
 ## 📝 Recent Projects:
 - [Social App](https://patyk409.github.io/react-social-app/)
 - [Crypto Rate App](https://patyk409.github.io/react-crypto-rate-app/)
+- [Weather App](patyk409.github.io/weather-app/index.html)
 - [Landing Page](https://patyk409.github.io/landing-page/index.html)
 
 <br/>
