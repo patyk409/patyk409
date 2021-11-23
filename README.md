@@ -27,11 +27,12 @@
 ## 📝 Recent Projects:
 - [Social App](https://patyk409.github.io/react-social-app/)
 - [Crypto Rate App](https://patyk409.github.io/react-crypto-rate-app/)
+- [Landing Page](https://patyk409.github.io/landing-page/index.html)
 
 <br/>
 
 ## 🧰 Abilities:
-- resistance to stress 😵
+- resistance to stress 👊
 - problem solving 🔍
 - ability to team up 👬
 
